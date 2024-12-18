@@ -1,0 +1,48 @@
+[
+  {
+    "email": "kardileharshal567@gmail.com",
+    "exists": true,
+    "isBusiness": false
+  },
+  {
+    "email": "sainath@plutonext.in",
+    "exists": false,
+    "isBusiness": false
+  },
+  {
+    "email": "invalid@nonexistentdomain.com",
+    "exists": false,
+    "isBusiness": false,
+    "status": "Unresolvable"
+  },
+  {
+    "email": "nitinn_gokhle@yahoo.com",
+    "exists": true,
+    "isBusiness": false
+  },
+  {
+    "email": "invalid@nonexistentdomain.xyz",
+    "exists": false,
+    "isBusiness": false
+  },
+  {
+    "email": "anmol@plutonext.in",
+    "exists": false,
+    "isBusiness": false
+  },
+  {
+    "email": "fbishop@hudco.com",
+    "exists": false,
+    "isBusiness": true
+  },
+  {
+    "email": "another@example.com",
+    "exists": false,
+    "isBusiness": true
+  },
+  {
+    "email": "telemax@bellsouth.net",
+    "exists": false,
+    "isBusiness": true
+  }
+]
